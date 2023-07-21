@@ -96,3 +96,15 @@ int main() {
 
     return 0;
 }
+
+
+
+// << git 명령어 (vscode에서 c언어파일을 깃과 연동하기) >>
+
+// git init 
+// git add --all 
+// git config --global user.email aaa@gmail.com
+// git config --global user.name bbb
+// git commit -m "first commit" 
+// git pull
+//  git push --set-upstream origin master
